@@ -15,6 +15,10 @@ library(gridExtra)
 ####1 make a barplot of mean counts for each species
 
 a <- read.table("2023_corsica_transect_data_plot2.txt", header=T, sep="\t")
+
+head(a) # this allows to view first few rows
+dim(a) # this tells your the number of rows and cols in your file
+
 ggp <- ggplot(a, aes(fct_inorder(species), t1_mean)) + geom_bar(stat = "identity", fill="lightblue1") + theme(panel.grid = element_blank(), panel.background = element_blank())
 p1 <- ggp + coord_flip() 
 
