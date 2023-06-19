@@ -7,7 +7,7 @@
 
 #1 load libraries
 
-library(tidyverse)
+library(tidyverse) #if library is missing then install it using 'install.packages("tidyverse")
 library(ggplot2)
 library(gridExtra)
 
