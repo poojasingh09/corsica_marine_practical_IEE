@@ -1,0 +1,33 @@
+species	t1_mean	t2_mean	t3_mean	t4_mean	t5_mean	t6_mean
+Tripterygion tripteronotum	0.142857143	0	0	0	0	0
+Tripterygion delaisi	0	0.083333333	0	0.08333333	0	0
+Blenny spp.	1.142857143	0.583333333	0	0	0	0
+Parablennius sanguinolentus	0.928571429	0.25	0	0.08333333	0	0
+Coryphoblennius galerita	0.142857143	0	0	0	0	0
+Parablennius incognitus	0.357142857	0	0	0	0	0
+Symphodus spp.	0.071428571	2.25	1.125	0	0	0
+Symphodus tinca	0.428571429	4.333333333	3.375	4.58333333	8.25	2
+Symphodus roissalii	0.214285714	1.583333333	1.5	2.25	1.25	0
+Symphodus ocellatus	0.142857143	0.333333333	2.25	0.33333333	0.75	0
+Symphodus rostratus brown morph	0	0	0	0	1	0
+Centrolabrus melanocercus	0	0	0	0	1.5	0.25
+Thalassoma pavo	5.571428571	4.5	5.5	1.83333333	0.25	0
+Coris julis	0.357142857	5.333333333	3.875	4.83333333	8.5	3
+Diplodus spp.	0	0	0.125	0	0	0
+Diplodus sargus	0.571428571	4.166666667	2.375	2.91666667	3.5	1.5
+Diplodus vulgaris	0.142857143	0.666666667	2.25	0.75	2.25	0.25
+Diplodus annularis	0.071428571	0.833333333	3	1.25	8.25	1.75
+Diplodus puntazzo	0	0.166666667	0.375	0.08333333	0.75	0.5
+Oblada melanura	2.428571429	3.333333333	2.125	7.25	2.25	3.75
+Sarpa salpa	17.28571429	5.833333333	5.125	3.08333333	4	1.75
+Boops boops	0.285714286	0	0.25	0.08333333	0	0
+Spondylosoma cantharus	0	0	0	0	3.5	0.75
+Sparus auratus	0	0	0	0	0.5	0
+Mullus surmuletus	0	0	0	0	0.5	0
+Apogon imberbis	0	0	0	0	0	0
+chromis chromis	9.428571429	28.91666667	54.25	36.1666667	23.75	50.5
+Atherina spp	2.285714286	0	17.5	3.75	12.5	0
+Mugil spp	25.07142857	10	0.5	4.16666667	0	0
+Oedachilus labeo	3.928571429	0	0	0	0	0
+Sphyraena viridensis	0	0	0	0	0	0
+Serranus scriba	0.071428571	1.583333333	2.125	2.41666667	3.25	0.75

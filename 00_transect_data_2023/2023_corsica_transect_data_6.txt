@@ -1,0 +1,33 @@
+species	s1	s2	ole
+Tripterygion tripteronotum	0	0	0
+Tripterygion delaisi	0	0	0
+Blenny spp.	0	0	0
+Parablennius sanguinolentus	0	0	0
+Coryphoblennius galerita	0	0	0
+Parablennius incognitus	0	0	0
+Symphodus spp.	0	0	0
+Symphodus tinca	1	1	2
+Symphodus roissalii	0	0	0
+Symphodus ocellatus	0	0	0
+Symphodus rostratus brown morph	0	0	0
+Centrolabrus melanocercus	0.5	0	0
+Thalassoma pavo	0	0	0
+Coris julis	3	2	1
+Diplodus spp.	0	0	0
+Diplodus sargus	2.5	0.5	0
+Diplodus vulgaris	0.5	0	0
+Diplodus annularis	0	0.5	3
+Diplodus puntazzo	0	1	0
+Oblada melanura	1	4.5	2
+Sarpa salpa	0.5	2	1
+Boops boops	0	0	0
+Spondylosoma cantharus	0	0.5	1
+Sparus auratus	0	0	0
+Mullus surmuletus	0	0	0
+Apogon imberbis	0	0	0
+chromis chromis	8.5	6.5	86
+Atherina spp	0	0	0
+Mugil spp	0	0	0
+Oedachilus labeo	0	0	0
+Sphyraena viridensis	0	0	0
+Serranus scriba	1	0.5	0

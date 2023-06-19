@@ -1,0 +1,32 @@
+species	s1	s2	s3	s4	s5	s6	s7	s8	s9	s10	ole
+Tripterygion tripteronotum	0	0	0	0	0	0	0	0	0	0	0
+Tripterygion delaisi	0	0	0	0.5	0	0	0	0	0	0	0
+Blenny spp.	0	0	0	0	0	0	0	0	0	0	0
+Parablennius sanguinolentus	0	0	0	0.5	0	0	0	0	0	0	0
+Coryphoblennius galerita	0	0	0	0	0	0	0	0	0	0	0
+Parablennius incognitus	0	0	0	0	0	0	0	0	0	0	0
+Symphodus spp.	0	0	0	0	0	0	0	0	0	0	0
+Symphodus tinca	3	3.5	2	3	1	0	2.5	0	3.5	3	6
+Symphodus roissalii	0.5	1	4.5	3.5	0	0	0	2	1	1	0
+Symphodus ocellatus	0	0	0	0	0	0	0	0	1	1	0
+Symphodus rostratus brown morph	0	0	0	0	0	0	0	0	0	0	0
+Centrolabrus melanocercus	0	0	0	0	0	0	0	0	0	0	0
+Thalassoma pavo	0	1.5	0.5	0	4	1.5	0	1.5	0	0	2
+Coris julis	3.5	3.5	5	3.5	3.5	1	1	0.5	2.5	2	3
+Diplodus sargus	0	0	0	0	1.5	15	0.5	0	0.5	0	0
+Diplodus vulgaris	0	0	0.5	0.5	1	0	0.5	1	0	0	1
+Diplodus annularis	0	0	2.5	2	0	0	0	0	0.5	0.5	2
+Diplodus puntazzo	0	0	0.5	0	0	0	0	0	0	0	0
+Oblada melanura	4	1	2	3	9	9	9	2	0	2.5	2
+Sarpa salpa	2.5	0	1.5	1.5	0	0	0	0	11.5	1.5	0
+Boops boops	0	0	0.5	0	0	0	0	0	0	0	0
+Spondylosoma cantharus	0	0	0	0	0	0	0	0	0	0	0
+Sparus auratus	0	0	0	0	0	0	0	0	0	0	0
+Mullus surmuletus	0	0	0	0	0	0	0	0	0	0	0
+Apogon imberbis	0	0	0	0	0	0	0	0	0	0	0
+chromis chromis	9	14	19	22.5	17	25.5	22.5	36	2.5	2	47
+Atherina spp	0	0	0	0	4	17.5	0	0	0	0	1
+Mugil spp	0	0	0	25	0	0	0	0	0	0	0
+Oedachilus labeo	0	0	0	0	0	0	0	0	0	0	0
+Sphyraena viridensis	0	0	0	0	0	0	0	0	0	0	0
+Serranus scriba	0.5	0.5	2.5	2	0	0	1.5	0.5	0	1	6
